@@ -29,6 +29,10 @@ Change the theme name in `\usecolortheme{}`.
 make
 ```
 
+### Citations
+
+Modify the file `references.bib`.
+
 ## Author
 
 Yilin Zheng
