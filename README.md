@@ -1,6 +1,6 @@
 # SUSTech-Defense-Slides
 
-Defense slide template
+Defense slide template, use beamer theme.
 
 ## Demo
 
